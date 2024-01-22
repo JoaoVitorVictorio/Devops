@@ -1,0 +1,41 @@
+19-Dec-2023 23:45:24.421 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.50
+19-Dec-2023 23:45:24.544 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2019 19:19:46 UTC
+19-Dec-2023 23:45:24.546 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.50.0
+19-Dec-2023 23:45:24.547 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+19-Dec-2023 23:45:24.549 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-Dec-2023 23:45:24.549 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-Dec-2023 23:45:24.550 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre8
+19-Dec-2023 23:45:24.550 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_202-b08
+19-Dec-2023 23:45:24.550 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+19-Dec-2023 23:45:24.551 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\devops\apache-tomcat-8.5.50
+19-Dec-2023 23:45:24.551 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\devops\apache-tomcat-8.5.50
+19-Dec-2023 23:45:24.551 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\devops\apache-tomcat-8.5.50\conf\logging.properties
+19-Dec-2023 23:45:24.551 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-Dec-2023 23:45:24.552 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-Dec-2023 23:45:24.552 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-Dec-2023 23:45:24.552 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-Dec-2023 23:45:24.553 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\devops\apache-tomcat-8.5.50
+19-Dec-2023 23:45:24.553 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\devops\apache-tomcat-8.5.50
+19-Dec-2023 23:45:24.554 INFORMAÇÕES [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\devops\apache-tomcat-8.5.50\temp
+19-Dec-2023 23:45:24.554 INFORMAÇÕES [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre8\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk8\bin;C:\Maven\apache-maven-3.9.6\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\app\JN\product\21c\dbhomeXE\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\JN\AppData\Local\Android\Sdk\platform-tools;C:\Users\JN\AppData\Local\Android\Sdk\emulator;C:\Users\JN\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\MongoDB\Server\7.0\bin;C:\Program Files\Git\cmd;;C:\Program Files\Docker\Docker\resources\bin;C:\Users\JN\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\JN\AppData\Local\Programs\Python\Python310\;C:\Users\JN\AppData\Local\Microsoft\WindowsApps;C:\Users\JN\AppData\Local\GitHubDesktop\bin;C:\Users\JN\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\JN\AppData\Roaming\npm;C:\Users\JN\.dotnet\tools;C:\Users\JN\AppData\Local\Programs\mongosh\;.]
+19-Dec-2023 23:45:26.981 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8001"]
+19-Dec-2023 23:45:27.391 INFORMAÇÕES [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+19-Dec-2023 23:45:27.414 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+19-Dec-2023 23:45:27.420 INFORMAÇÕES [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+19-Dec-2023 23:45:27.421 INFORMAÇÕES [main] org.apache.catalina.startup.Catalina.load Initialization processed in 4620 ms
+19-Dec-2023 23:45:27.609 INFORMAÇÕES [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-Dec-2023 23:45:27.609 INFORMAÇÕES [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.50
+19-Dec-2023 23:45:27.636 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\devops\apache-tomcat-8.5.50\webapps\docs]
+19-Dec-2023 23:45:28.330 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\devops\apache-tomcat-8.5.50\webapps\docs] has finished in [693] ms
+19-Dec-2023 23:45:28.330 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\devops\apache-tomcat-8.5.50\webapps\examples]
+19-Dec-2023 23:45:29.370 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\devops\apache-tomcat-8.5.50\webapps\examples] has finished in [1,040] ms
+19-Dec-2023 23:45:29.371 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\devops\apache-tomcat-8.5.50\webapps\host-manager]
+19-Dec-2023 23:45:29.436 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\devops\apache-tomcat-8.5.50\webapps\host-manager] has finished in [65] ms
+19-Dec-2023 23:45:29.437 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\devops\apache-tomcat-8.5.50\webapps\manager]
+19-Dec-2023 23:45:29.504 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\devops\apache-tomcat-8.5.50\webapps\manager] has finished in [67] ms
+19-Dec-2023 23:45:29.505 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\devops\apache-tomcat-8.5.50\webapps\ROOT]
+19-Dec-2023 23:45:29.567 INFORMAÇÕES [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\devops\apache-tomcat-8.5.50\webapps\ROOT] has finished in [62] ms
+19-Dec-2023 23:45:29.575 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8001"]
+19-Dec-2023 23:45:29.598 INFORMAÇÕES [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+19-Dec-2023 23:45:29.604 INFORMAÇÕES [main] org.apache.catalina.startup.Catalina.start Server startup in 2181 ms
+19-Dec-2023 23:48:19.841 INFORMAÇÕES [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/devops/apache-tomcat-8.5.50/conf/tomcat-users.xml]

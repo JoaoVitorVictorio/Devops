@@ -1,0 +1,24 @@
+29-Dec-2023 00:16:19.480 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+29-Dec-2023 00:16:19.486 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Dec-2023 00:16:19.620 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Dec-2023 00:16:20.023 INFORMAÇÕES [http-nio-8001-exec-9] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+29-Dec-2023 00:16:20.031 INFORMAÇÕES [http-nio-8001-exec-9] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Dec-2023 00:16:26.044 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.core.ApplicationContext.log 3 Spring WebApplicationInitializers detected on classpath
+29-Dec-2023 00:16:29.129 INFORMAÇÕES [http-nio-8001-exec-9] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Dec-2023 00:16:31.422 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Dec-2023 00:16:33.397 INFORMAÇÕES [http-nio-8001-exec-7] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Dec-2023 00:16:33.652 INFORMAÇÕES [http-nio-8001-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Dec-2023 00:16:34.707 INFORMAÇÕES [http-nio-8001-exec-9] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Dec-2023 00:16:42.004 INFORMAÇÕES [http-nio-8001-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Dec-2023 00:20:56.822 INFORMAÇÕES [http-nio-8001-exec-13] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+29-Dec-2023 00:20:56.823 INFORMAÇÕES [http-nio-8001-exec-13] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Dec-2023 00:21:08.736 INFORMAÇÕES [http-nio-8001-exec-12] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Dec-2023 00:21:14.833 INFORMAÇÕES [http-nio-8001-exec-12] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Dec-2023 00:21:51.353 INFORMAÇÕES [http-nio-8001-exec-20] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Dec-2023 00:22:30.859 INFORMAÇÕES [http-nio-8001-exec-23] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+29-Dec-2023 00:22:30.859 INFORMAÇÕES [http-nio-8001-exec-23] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Dec-2023 00:22:30.976 INFORMAÇÕES [http-nio-8001-exec-23] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Dec-2023 00:22:36.353 INFORMAÇÕES [http-nio-8001-exec-11] org.apache.catalina.core.ApplicationContext.log 3 Spring WebApplicationInitializers detected on classpath
+29-Dec-2023 00:22:41.797 INFORMAÇÕES [http-nio-8001-exec-11] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Dec-2023 00:22:43.571 INFORMAÇÕES [http-nio-8001-exec-11] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Dec-2023 00:23:08.305 INFORMAÇÕES [http-nio-8001-exec-25] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'

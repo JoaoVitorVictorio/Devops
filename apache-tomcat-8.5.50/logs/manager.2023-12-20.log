@@ -1,0 +1,4 @@
+20-Dec-2023 00:19:09.521 INFORMAÇÕES [http-nio-8001-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+20-Dec-2023 00:19:46.324 INFORMAÇÕES [http-nio-8001-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+20-Dec-2023 00:24:59.075 INFORMAÇÕES [http-nio-8001-exec-10] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+20-Dec-2023 00:26:36.971 INFORMAÇÕES [http-nio-8001-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
